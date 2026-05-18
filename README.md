@@ -265,3 +265,5 @@ The public CheerpX deployment is provided **as-is** and is **free to use** for t
 Read more about [CheerpX licensing](https://cheerpx.io/docs/licensing)
 
 If you want to build a product on top of CheerpX/WebVM, please get in touch: sales@leaningtech.com
+
+<!-- Declarative environment verification -->
